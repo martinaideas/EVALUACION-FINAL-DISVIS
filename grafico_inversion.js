@@ -5,8 +5,8 @@ new Chart(document.getElementById("stackedBar"), {
         datasets: [{
             label: "Arancel anual",
             data: [3100000, 3800000, 4200000],
-            backgroundColor: "rgba(241, 142, 45, 0.4)",
-            borderColor: "rgba(241, 142, 45, 1)",
+            backgroundColor: "rgba(94, 79, 162, 0.4)",
+            borderColor: "rgba(94, 79, 162, 1)",
             borderWidth: 1,
         }]
     },
