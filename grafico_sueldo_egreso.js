@@ -5,8 +5,8 @@ new Chart(document.getElementById("stackedBar2"), {
         datasets: [{
             label: "Sueldo bruto mensual",
             data: [1195000, 1021000, 985000],
-            backgroundColor: "rgba(54, 162, 235, 0.4)",
-            borderColor: "rgba(54, 162, 235, 1)",
+            backgroundColor: "rgba(255, 0, 255, 0.4)",
+            borderColor: "rgba(255, 0, 255, 1)",
             borderWidth: 1,
         }]
     },
